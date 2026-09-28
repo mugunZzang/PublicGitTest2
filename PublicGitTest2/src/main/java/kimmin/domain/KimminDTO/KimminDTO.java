@@ -1,0 +1,14 @@
+package kimmin.domain.KimminDTO;
+
+public class KimminDTO {
+	
+	private String name;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+}
