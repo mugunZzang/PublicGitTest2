@@ -4,8 +4,17 @@ public class JungyjDTO {
 
 	// field
 	private String name;
+	private String name2;
 
 	
+	public String getName2() {
+		return name2;
+	}
+
+	public void setName2(String name2) {
+		this.name2 = name2;
+	}
+
 	// method
 	public String getName() {
 		return name;
