@@ -1,4 +1,4 @@
-package kimmin.controller.KimminCtrl;
+package kimmin.controller;
 
 public class KimminCtrl {
 

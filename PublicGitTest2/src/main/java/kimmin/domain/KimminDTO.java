@@ -1,4 +1,4 @@
-package kimmin.domain.KimminDTO;
+package kimmin.domain;
 
 public class KimminDTO {
 	
